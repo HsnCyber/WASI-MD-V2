@@ -22,7 +22,7 @@ Welcome to my awesome project! Here you'll find...
 
 Check out my YouTube channel for tutorials and more!
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wasitech1)
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@princeyt135)
 ## WhatsApp Channel
 
 Join our WhatsApp channel for updates and discussions!
